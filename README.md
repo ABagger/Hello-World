@@ -1,9 +1,22 @@
-# hello-world
-Fulfilling the wishes of the automaton and learning to use git
+# Hello World!
 
-I plan on using this account primarily to store and share code
-related to video game projects I have worked on in the past or
-that I am currently working on.
+I use this account to store and share code related to video game 
+projects that my friends and I have worked on in the past or
+that we are currently working on.
 
-This readme will continue to be updated as I think of more 
-pertinent information to put in it
+## Super Rocket Patrol
+My first project used the phaser 3 game engine and was a remake
+of a 1978 game called Rocket Patrol (with some major improvements)
+If you'd like to play it or learn more about that project, here are the links
+- [Repository](https://github.com/ABagger/Super-Rocket-Patrol/)
+- [Game](https://abagger.github.io/Super-Rocket-Patrol/)
+
+## Aliens Love Toast
+This is the project that I'm working on currently, and it is very
+unfinished (barely started really), but I will add links and pertinent 
+info as I make progress on it.
+
+## Contact info
+
+- Andrew Bagger
+- andrewbagger@gmail.com
